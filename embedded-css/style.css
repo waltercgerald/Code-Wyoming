@@ -1,0 +1,52 @@
+h1 {
+    color: rgb(180,135,44);
+    font-family: 'Lobster', cursive;
+    text-align:center;
+    text-shadow:3px 3px 4px rgb(227, 187, 61);
+        <!--rgb(180,135,44)-->
+    
+}
+header {
+    font-size: 2em;
+}
+nav {
+    margin-bottom: 40px;
+    color: rgb(227, 187, 61);
+    font-family: 'Lobster', cursive;
+    text-align:center
+    
+}
+a {
+    color: rgb(227, 187, 61);
+}
+body {
+    background-repeat: no-repeat;
+    background-image: url(DTrumpore_TheBus_Moab_2013-18.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+ul .special {
+    color: rgb(240,90,34)
+}
+header p.super {
+    color: rgb(240,90,34)
+}
+
+h2 {
+    color: rgb(180, 135, 44);
+    font-family: 'Lobster', cursive;
+    text-align:center
+}
+p {
+    color: rgb(180, 135, 44);
+    font-family: 'Roboto', sans-serif;
+    text-indent: 2em;
+}
+ul {
+    color: rgb(180, 135, 44);
+}
+footer {
+    color: rgb(240, 90, 34);
+    font-family: 'Roboto', sans-serif;
+}

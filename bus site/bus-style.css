@@ -1,0 +1,81 @@
+h1, .bus-p, .crew-p, .trip-bq, footer {
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    opacity: 0.9;
+}
+    
+h1 {
+    font-size: 5em;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    letter-spacing: -3px;
+    
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    opacity: 0.9;
+    padding-top: 0px;
+    margin-top: -75px;
+}
+
+nav {
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 0px;
+    margin-top: -10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.home {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(DTrumpore_TheBus_Moab_2013-14.jpg);
+}
+
+.crew {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(DTrumpore_TheBus_Moab_2013-50.jpg);
+}
+
+.bus-p {
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.crew-p {
+    padding-left: 360px;
+    padding-right: 50px;
+    margin-top: 80px;
+    margin-left: 80px;
+    text-align: right;
+}
+
+.trip {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(DTrumpore_TheBus_Moab_2013-31.jpg)
+}
+
+.trip-bq {
+    padding-left: 20px;
+    padding-right: 420px;
+    margin-top: 80px;
+    text-align: left;
+}
+
+footer {
+    margin-top: 475px;
+}

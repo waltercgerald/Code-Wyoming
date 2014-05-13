@@ -1,0 +1,47 @@
+body {
+   background: #BBF;
+   margin: 0;
+}
+.wrapper {
+   width: 960px;
+   margin: 0px auto;
+   background: #33D;
+}
+h1 {
+    margin: 0;
+}
+
+#rightcol {
+background: #77E;
+margin-left: 200px;
+padding-left: 200px;
+}
+
+nav {
+    float: left; 
+    width: 200px;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 0px; 
+}
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: black; 
+    width: 150px;
+    display: inline-block;
+    
+}
+img {
+    margin-left: 30px;
+    float: right; width: 20%
+    
+}
+footer {
+    margin-top: 70px;
+}
