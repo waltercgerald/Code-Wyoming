@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row1 {
+    margin-bottom: 20px;
+    background-color: black;
+}
+.row2 {
+    background-color: #4D4D4D;
+}
+}
+main {
+    width: 960px;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+header {
+    color: white;
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+}
+header a {
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+}
+#topnav {
+    float: right;
+    background: black;
+    width: 50%;
+    margin-left: 0px;
+    box-sizing: border-box;
+    color: white;
+    text-decoration: none;
+    padding-top: 15px;
+}
+footer {
+    background-color: black;
+    height: 40px;
+    text-align: center;
+    padding: 25px;
+    color: white;
+    width: 960px;
+    margin: 0 auto;
+}
+.feet {
+    background-color: black;
+}
+h4 {
+    float: left;
+}
+h5 {
+    float: right;
+}
+nav {
+    width: 960px;
+    margin: 0 auto;
+}
+nav div {
+    width: 20%;
+    display: inline-block;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    margin-right: 58px;
+}
+nav div:nth-child(4) {
+    margin-right: 0px;
+}
+nav h2 {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+nav a {
+    color: orange;
+    text-decoration: none;
+    border-bottom: 1px solid grey;
+    font-style: italic;
+}
+nav li {
+    list-style-type: none;
+    border-bottom: 1px solid grey;
+}
+body {
+    margin: 0 auto;
+}
+/*w*/
+
+.smallpic {
+    padding-top: 20px;
+    overflow: auto;
+}
+article {
+    float: right;
+    padding-bottom: 20px;
+}
+article:nth-child(2) {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+main li:nth-child(3) {
+    margin-right: 0px;
+}
+figcaption {
+    margin: 0px;
+    padding-top: 16px;
+    width: 290px;
+    text-align: left;
+    color: black;
+    
+}
+figure {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+figure a {
+    text-decoration: none;
+    float: right;
+    color: orange;
+}
+figure h3 {
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.bottombar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bottombartext {
+    display: inline-block;
+    width: 50%;
+}
+.bottombartext h2 {
+    padding-bottom: 10px;
+    font-style: italic;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+.bottombartext a {
+    color: orange;
+}
+.bottombarpic {
+    float: right;
+    margin: 0;
+    padding-bottom: 20px;
+}
+.bottombox {
+    overflow: auto;
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+.readmore {
+    display: block;
+    text-align: right;
+}

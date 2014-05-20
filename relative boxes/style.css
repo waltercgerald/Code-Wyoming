@@ -1,0 +1,29 @@
+body {
+background-color: #EEE;
+}
+main {
+    width: 200px;
+    height: 600px;
+    margin: 40px auto;
+    background: white;
+}
+div {
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    padding-top: 100px;
+    text-align:center;
+    position: relative;
+}
+div:first-child {
+    background-color: red;
+}
+div:nth-child(2) {
+    background-color: blue;
+    right: 100px;
+    top: -50px;
+}
+div:last-child {
+    background-color: green;
+    top: -100px;
+}

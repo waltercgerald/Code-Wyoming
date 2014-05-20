@@ -1,0 +1,318 @@
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+
+    margin: 0 auto;
+
+    background-color: #333333;
+
+}
+
+.wrapper {
+
+    width: 980px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    margin-top: 40px;
+
+    padding-top: 20px;
+
+    background-color: #EEEEEE;
+
+    padding-left: 20px;
+
+    padding-right: 20px;
+
+}
+
+header {
+
+    height: 300px;
+
+    width: 940px;
+
+    background-image: url(joey.jpg);
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    background-size: no-repeat;
+
+    overflow: auto;
+
+}
+
+h1 {
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    display: inline-block;
+
+    position: absolute;
+
+    opacity: .9;
+
+    margin: 15px;
+
+}
+
+li {
+
+    list-style-type: none;
+
+}
+
+header nav {
+
+    float: right;
+
+    margin-right: 520px;
+
+    margin-top: 40px;
+
+    font-size: 2em;
+
+}
+
+header nav li {
+
+    display: inline-block;
+
+    padding: 15px;
+
+    margin: 5px;
+
+}
+
+a {
+
+    color: black;
+
+    margin: 10px;
+
+    color: rgb(245, 149, 53);
+
+    opacity: .9;
+
+    font-family: 'Lobster', cursive;
+
+    text-decoration: none;
+
+}
+
+.headercontent {
+
+    margin: 0 auto;
+
+    float: left;
+
+    width: 940px;
+
+}
+
+header h2 {
+
+    margin: 0 auto;
+
+    text-align: center;
+
+    width: 940px;
+
+    clear: both;
+
+    margin-top: 130px;
+
+    color: rgb(245, 149, 53);
+
+    font-family: 'Anton', sans-serif;
+
+    opacity: .9;
+
+    font-size: 30px;
+
+    padding-left: 100px;
+
+    padding-right: 100px;
+
+    font-size: 2em;
+
+}
+
+header button {
+
+    border: none;
+
+    background-color: transparent;
+
+    text-decoration: none;
+
+    font-size: 3em;
+    
+    position:relative;
+    
+    left:365px;
+    
+    
+
+}
+
+#campaign {
+
+    margin-top: 20px;
+
+}
+
+article {
+
+    overflow: auto;
+
+    margin-top: 20px;
+
+    background-color: #FFFDFB;
+
+    position: relative;
+    border-left:5px solid black;
+
+}
+
+article img {
+
+    float: right;
+
+}
+
+.articlecontent {
+
+    padding-left: 20px;
+    padding-top:10px;
+
+}
+
+.articlecontent h2 {
+
+    font-family: 'Anton', sans-serif;
+
+}
+
+article button {
+
+    position: absolute;
+
+    bottom: 10px;
+
+    background-color: #333333;
+
+}
+
+
+.radiobutton {
+
+    display: inline-block;
+
+    width: 10px;
+
+    height: 10px;
+
+    background-color: rgb(245, 149, 53);
+
+    border-radius: 50%;
+
+    opacity: .8;
+
+    float: right;
+
+    margin-top: 130px;
+
+    margin-right: 10px;
+
+}
+#donation {
+    
+ overflow:auto;   
+
+}
+.form {
+    width:340px;
+    height:300px;
+    margin-top:40px;
+    float:left;
+    padding-top:40px;
+    padding-right:40px;
+    margin-bottom:20px;
+    background-color: #FFFDFB;
+    border-left: 5px solid black;
+}
+#donation figcaption {
+    float:right;
+}
+figcaption .radiobutton {
+    position:relative;
+    bottom:70px;
+    right:10px;
+}
+
+.form button {
+    position:relative;
+    left:120px;
+    top:15px;
+}
+input {
+    margin:10px;
+}
+.r1 {
+
+    width:250px;
+    float:right;
+    margin-right:20px;
+    margin-top:40px;
+    background-color:white;
+    margin-bottom:40px;
+    height:300px;
+}
+.r1 img {
+    
+}
+.news {
+    display:inline-block;
+    width:940px;
+    float:right;
+    border-top:5px solid black;
+    border-bottom:5px solid black;
+    padding-bottom:20px;
+    padding-top:20px;
+
+}
+.news figure {
+    width:273px;
+    display:inline-block;
+    margin-right:36px;
+    margin-left:0;
+    
+}
+.news figure nth-child:(3) {
+    margin-right:0;
+}
+.news figcaption {
+    border-bottom:5px solid black;
+    background-color: white;
+}
+footer {
+    
+}

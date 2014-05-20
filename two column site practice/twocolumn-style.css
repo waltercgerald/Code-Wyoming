@@ -1,0 +1,121 @@
+body {
+    background: rgb(237, 230, 206) margin: 0;
+}
+#wrapper {
+    width: 80%;
+    margin: 0px auto;
+    background: rgb(80, 133, 182);
+    border-radius: 10px;
+}
+header h1 {
+    color: rgb(237, 230, 206);
+    font-family: sans-serif;
+    padding-top: 40px;
+    padding-left: 80px;
+    margin-bottom: 5px;
+    font-family: 'Righteous', cursive;
+    font-size: 3em;
+}
+header img {
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+header h2 {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 1em;
+    padding-left: 80px;
+    color: rgb(237, 230, 206);
+}
+#rightcol {
+    background: rgb(227, 188, 61);
+    margin-left: 170px;
+    padding-left: 0px;
+    margin-bottom: -40px;
+}
+p {
+    font-family: 'Lato', sans-serif;
+    padding-left: 10px;
+}
+nav {
+    float: left;
+    width: 120px;
+    padding-left: 0px;
+    padding-right: 50px;
+    padding-top: 0px;
+    margin-top: 40px;
+    background: rgb(201, 217, 221);
+    font-family: 'Anton', sans-serif;
+    font-size: 18pt;
+    text-align: center
+    
+}
+main ul {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 0;
+    margin-top: 0px;
+    text-align: center;
+    background-color: rgb(241,90,34);
+    width: 100%;
+    
+}
+main {
+    margin: 0;
+    padding: 0;
+}
+main a {
+    text-align: center;
+    color: rgb(237,230,206);
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 0px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+   
+}
+.noborder {
+    border-right: none;
+}
+main li {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    border-right: 3px solid rgb(227,188,61);
+    padding-bottom: 15px;
+    
+}
+nav ul {
+    list-style-type: none;
+    padding-left: 10px;
+    line-height: 35px;
+    text-align: center
+}
+nav a {
+    color: rgb(241,90,34);
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 0px;
+}
+nav h2 {
+    color: rgb(80, 133, 182);
+}
+#rightcol h2 {
+    color: rgb(241,90,34);
+    font-family: 'Anton', sans-serif;
+    border-left: 3px solid rgb(241,90,34); 
+    padding-left: 30px;
+    margin-left: 10px;
+    
+}
+
+footer {
+    margin-top: 70px;
+    text-align: center;
+}
